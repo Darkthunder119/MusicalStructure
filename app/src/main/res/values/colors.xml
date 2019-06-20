@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="primary_color">#212121</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="primary_dark_color">#212121</color>
+
+    <!-- Background color for app -->
+    <color name="tan_background">#212121</color>
+
+    <!-- Background color for the phrases category -->
+    <color name="category_library">#9e9e9e</color>
+</resources>
